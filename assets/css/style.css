@@ -4,7 +4,40 @@ html{
 }
 
 
-#Destacados .card{
-    background-color: #007bff
-    ;
-} 
+.caja_destacados{
+    background-color: #007bff;
+}
+
+#footer{
+    margin-left: auto;
+}
+
+.tarjetas{
+    padding-left: 5rem;
+    color: white;
+    text-align: justify;
+}
+
+/* .icon{
+   
+    padding-top: 10rem;
+    
+} */
+
+/* .fas .fa-plane {
+       padding: 3rem 1rem;
+}  */
+
+
+
+/* iconos awesome */
+#Quienes-Somos i{
+    padding:0.2rem ;
+    margin: 0.2rem;
+    padding-left: 10rem;
+    padding-right: 12rem;
+    background-color: #007bff;
+    padding-top: 0.5rem;
+}
+
+
