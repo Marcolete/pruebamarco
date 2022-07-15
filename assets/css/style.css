@@ -1,0 +1,10 @@
+/*font-family: 'Inter', sans-serif;*/
+html{ 
+    scroll-behavior: smooth;
+}
+
+
+#Destacados .card{
+    background-color: #007bff
+    ;
+} 
